@@ -1,0 +1,9 @@
+﻿  ScoreProgram_array.cpp
+  ScoreProgram_array.vcxproj -> C:\Users\quant\source\repos\ScoreProgram_array\Debug\ScoreProgram_array.exe
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(23): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(46): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(49): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(52): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(55): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(58): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\ScoreProgram_array.cpp(158): warning C26451: 산술 오버플로: 4 바이트 값의 '*' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '*' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2).

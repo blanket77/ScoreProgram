@@ -1,0 +1,2 @@
+C:\Users\quant\source\repos\ScoreProgram_array\Debug\ScoreProgram_array.exe.lastcodeanalysissucceeded
+C:\Users\quant\source\repos\ScoreProgram_array\ScoreProgram_array\Debug\NativeCodeAnalysis.read.1.tlog
